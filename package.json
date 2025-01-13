@@ -9,7 +9,7 @@
   "files": [
     "dist/",
     "ios/Plugin/",
-    "CapacitorASAID.podspec"
+    "CapacitorAsa.podspec"
   ],
   "author": "Thomas Vidas <hello@thomasvidas>",
   "license": "MIT",
