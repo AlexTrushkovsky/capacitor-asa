@@ -1,11 +1,11 @@
-# capacitor-asa-id
+# capacitor-asa
 
 Allows access to the AAAttribution Token (iOS)
 
 ## Install
 
 ```bash
-npm install capacitor-asa-id
+npm install capacitor-asa
 npx cap sync
 ```
 
