@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-asa-token",
+  "name": "capacitor-asa",
   "version": "1.0.0",
   "description": "Allows access to the AAAttribution Token (iOS)",
   "main": "dist/plugin.cjs.js",
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexTrushkovsky/capacitor-asa-id.git"
+    "url": "git+https://github.com/AlexTrushkovsky/capacitor-asa.git"
   },
   "bugs": {
-    "url": "https://github.com/AlexTrushkovsky/capacitor-asa-id/issues"
+    "url": "https://github.com/AlexTrushkovsky/capacitor-asa/issues"
   },
   "keywords": [
     "capacitor",
