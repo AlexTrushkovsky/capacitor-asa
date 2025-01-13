@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-asa-id",
+  "name": "capacitor-asa-token",
   "version": "1.0.0",
   "description": "Allows access to the AAAttribution Token (iOS)",
   "main": "dist/plugin.cjs.js",

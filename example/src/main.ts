@@ -1,5 +1,5 @@
 import './style.css';
-import { ASAIDPlugin } from 'capacitor-asa-id';
+import { ASAIDPlugin } from 'capacitor-asa';
 
 const asaId = document.getElementById('txt-asa-id')!;
 const btnPrompt = document.getElementById('btn-prompt-asa-id')!;
